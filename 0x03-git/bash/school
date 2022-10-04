@@ -1,2 +1,8 @@
 echo School
+<<<<<<< HEAD
 echo The School is open!
+=======
+echo School
+echo The school is open!
+>>>>>>> update_script
+The school is open!
